@@ -1,2 +1,2 @@
 # Custom-Fibonacci-sequence
-Receive a custom made Fibonacci sequence based on your details!
+A quick I/O console program that takes in a name and a number, outputting a sequence up to that number.
